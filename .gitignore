@@ -1,0 +1,7 @@
+# logファイルは無視だが、「access.log」だけは例外にする
+*.log
+!access.log
+  
+# buildディレクトリ以下は無視
+build/
+sample/

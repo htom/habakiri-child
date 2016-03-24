@@ -1,0 +1,19 @@
+/*!
+Theme Name: habakiri customize
+Theme URI: http://habakiri.2inc.org/en/
+Author: Keiju
+Author URI: http://
+Template: habakiri
+Version: 1.0.0
+License: GPLv2 or later
+License URI: license.txt
+Tags: white, fixed-layout, fluid-layout, responsive-layout, one-column, two-columns, left-sidebar, right-sidebar, editor-style, sticky-post, microformats, featured-images, custom-colors, custom-menu, custom-background, custom-colors
+Text Domain: habakiri-child
+*/
+
+img.introduce
+{
+	display:block;
+	width:auto;
+	margin:10px auto 5px auto;
+}
